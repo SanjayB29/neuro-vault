@@ -1,0 +1,10 @@
+deepgram-sdk>=3.7.7
+embedchain==0.1.124
+fastapi>=0.115.6
+google-generativeai>=0.8.3
+moviepy>=2.1.1
+pinecone-client>=5.0.1
+pinecone-text>=0.9.0
+python-multipart>=0.0.20
+validators>=0.34.0
+youtube-transcript-api>=0.6.3
